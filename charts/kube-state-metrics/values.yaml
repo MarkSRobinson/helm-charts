@@ -305,6 +305,7 @@ collectors:
   - daemonsets
   - deployments
   - endpoints
+  - endpointslices
   - horizontalpodautoscalers
   - ingresses
   - jobs
